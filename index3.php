@@ -30,6 +30,7 @@ print_r($user);
 echo '</pre>';
 
 echo "SOLOMA";
+echo "SOLOMA";
 ?>
 </body>
 </html>
